@@ -233,6 +233,6 @@ By graduation, learners should be able to:
 ---
 
 ## Full Daily Curriculum
-The complete day-by-day schedule lives in `bootcamp/` with Week 00–Week 16 folders and daily plans (Day 01–Day 05). Use it to run a full cohort or self‑study track. The folder also includes `Assessments.md` and `Capstone-Brief.md` to finalize grading criteria and the capstone scope.
+The complete day-by-day schedule lives in `bootcamp/` with Week 00–Week 16 folders and daily plans (Day 01–Day 05). Use it to run a full cohort or self‑study track. The folder also includes `Assessments.md` and `Capstone-Brief.md` to finalize grading criteria and the capstone scope, plus `course-content/` for full lesson content by week.
 
 This bootcamp is designed to align directly with the Lions Auto Protection Junior Software Developer requirements while ensuring a beginner can reach professional competency.

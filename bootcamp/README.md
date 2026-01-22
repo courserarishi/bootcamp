@@ -34,5 +34,6 @@ Each week has **Day-01** through **Day-05** markdown files with:
 ## Additional Docs
 - `Assessments.md` for checkpoints and grading rubric
 - `Capstone-Brief.md` for the final project requirements
+- `course-content/` for full lesson content by week
 
 Use this as a complete, beginner‑friendly program from **zero experience** to **job‑ready**.
